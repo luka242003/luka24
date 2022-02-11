@@ -1,0 +1,16 @@
+<html>
+<head>
+<title> namiokobana </title>
+<link rel="stylesheet" href='style1.css'>
+</head>
+<div id="cont">
+<p> გამოიცანი რიცხვი 1 დან 100მდე </p>
+<p id="output">შეიყვანეთ რიცხვი</p>
+<input  type="text" id="userInput">
+<button id="enter"> enter </button>
+<div id="again1">
+<button id="again"> play again </button>
+</div>
+</div>
+</body>
+</html>
